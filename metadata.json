@@ -1,0 +1,6 @@
+{
+  "name": "Privachat",
+  "description": "A private chatting app with a liquid glass iOS 26 aesthetic, featuring secure real-time messaging, end-to-end encryption, and temporary node invitation codes.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
